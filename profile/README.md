@@ -15,7 +15,7 @@ Ce projet est né de la collaboration entre
 
 ## Procédure
 
-Pour essayer le projet:
+Pour essayer le projet dans une distribution comme Debian:
 
 ```sh
 #!/usr/bin/env bash
